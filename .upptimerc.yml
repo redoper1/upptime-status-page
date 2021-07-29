@@ -8,7 +8,7 @@ sites:
   - name: Blog
     url: https://blog.davidrychly.cz/
   - name: VPS
-    URL: https://vps.davidrychly.cz/
+    url: https://vps.davidrychly.cz/
 
 status-website:
   cname: status.davidrychly.cz
