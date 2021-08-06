@@ -1,6 +1,5 @@
-# Change these first
-owner: redoper1 # Your GitHub organization or username, where this repository lives
-repo: upptime-status-page # The name of this repository
+owner: redoper1
+repo: upptime-status-page
 
 sites:
   - name: Private website
@@ -12,16 +11,16 @@ sites:
 
 status-website:
   cname: status.davidrychly.cz
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://davidrychly.cz/favicon/favicon.svg
   name: Status - David Rychlý
   introTitle: "**Services status**"
   introMessage:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
+    - title: Website
+      href: https://davidrychly.cz
+    - title: GitHub repo
       href: https://github.com/$OWNER/$REPO
   theme: dark
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
