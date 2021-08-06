@@ -8,10 +8,13 @@ sites:
     url: https://blog.davidrychly.cz/
   - name: VPS
     url: https://vps.davidrychly.cz/
+  - name: Htmlmage
+    url: https://htmlmage.davidrychly.cz/
+  - name: Imagemin
+    url: https://imagemin.davidrychly.cz/
 
 status-website:
   cname: status.davidrychly.cz
-  #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   logoUrl: https://davidrychly.cz/favicon/favicon.svg
   name: Status - David Rychlý
   introTitle: "**Services status**"
