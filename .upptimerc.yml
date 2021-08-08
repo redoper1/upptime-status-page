@@ -8,10 +8,20 @@ sites:
     url: https://blog.davidrychly.cz/
   - name: VPS
     url: https://vps.davidrychly.cz/
-  - name: Htmlmage
+  - name: Htmlmage API
     url: https://htmlmage.davidrychly.cz/
-  - name: Imagemin
+  - name: Imagemin API
     url: https://imagemin.davidrychly.cz/
+  - name: Geoip API
+    url: https://geoip.davidrychly.cz/
+  - name: Speedtest
+    url: https://speedtest.davidrychly.cz/
+  - name: Jitsi
+    url: https://jitsi.davidrychly.cz/
+  - name: Activities tracking app
+    url: https://activities-tracking-app.davidrychly.cz/login
+  - name: Version check API
+    url: https://version-check.davidrychly.cz/
 
 status-website:
   cname: status.davidrychly.cz
