@@ -22,6 +22,9 @@ sites:
     url: https://activities-tracking-app.davidrychly.cz/login
   - name: Version check API
     url: https://version-check.davidrychly.cz/
+    
+assignees:
+  - redoper1
 
 status-website:
   cname: status.davidrychly.cz
