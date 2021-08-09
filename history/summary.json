@@ -167,18 +167,16 @@
     "icon": "https://favicons.githubusercontent.com/version-check.davidrychly.cz",
     "slug": "version-check-api",
     "status": "up",
-    "uptime": "99.61%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.61%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 380,
     "timeDay": 401,
     "timeWeek": 380,
     "timeMonth": 380,
     "timeYear": 380,
-    "dailyMinutesDown": {
-      "2021-08-09": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]
