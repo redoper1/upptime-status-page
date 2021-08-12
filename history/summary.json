@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/blog.davidrychly.cz",
     "slug": "blog",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.94%",
+    "uptimeDay": "99.04%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 1753,
     "timeDay": 3924,
     "timeWeek": 2271,
     "timeMonth": 1753,
     "timeYear": 1753,
     "dailyMinutesDown": {
-      "2021-08-12": 7
+      "2021-08-12": 14
     }
   },
   {
@@ -79,18 +79,18 @@
     "icon": "https://favicons.githubusercontent.com/imagemin.davidrychly.cz",
     "slug": "imagemin-api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.89%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 457,
     "timeDay": 513,
     "timeWeek": 457,
     "timeMonth": 457,
     "timeYear": 457,
     "dailyMinutesDown": {
-      "2021-08-12": 0
+      "2021-08-12": 7
     }
   },
   {
@@ -99,18 +99,18 @@
     "icon": "https://favicons.githubusercontent.com/geoip.davidrychly.cz",
     "slug": "geoip-api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.89%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 463,
     "timeDay": 476,
     "timeWeek": 463,
     "timeMonth": 463,
     "timeYear": 463,
     "dailyMinutesDown": {
-      "2021-08-12": 0
+      "2021-08-12": 7
     }
   },
   {
@@ -118,19 +118,19 @@
     "url": "https://speedtest.davidrychly.cz/",
     "icon": "https://favicons.githubusercontent.com/speedtest.davidrychly.cz",
     "slug": "speedtest",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 458,
-    "timeDay": 450,
-    "timeWeek": 458,
-    "timeMonth": 458,
-    "timeYear": 458,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 461,
+    "timeDay": 465,
+    "timeWeek": 461,
+    "timeMonth": 461,
+    "timeYear": 461,
     "dailyMinutesDown": {
-      "2021-08-12": 0
+      "2021-08-12": 7
     }
   },
   {
