@@ -22,9 +22,9 @@
     "url": "https://blog.davidrychly.cz/",
     "icon": "https://favicons.githubusercontent.com/blog.davidrychly.cz",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 2271,
     "timeMonth": 1753,
     "timeYear": 1753,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-12": 0
+    }
   },
   {
     "name": "VPS",
