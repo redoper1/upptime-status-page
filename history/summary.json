@@ -96,19 +96,19 @@
     "url": "https://geoip.davidrychly.cz/",
     "icon": "https://favicons.githubusercontent.com/geoip.davidrychly.cz",
     "slug": "geoip-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 465,
-    "timeDay": 478,
-    "timeWeek": 467,
-    "timeMonth": 465,
-    "timeYear": 465,
+    "status": "up",
+    "uptime": "94.35%",
+    "uptimeDay": "37.40%",
+    "uptimeWeek": "91.06%",
+    "uptimeMonth": "94.35%",
+    "uptimeYear": "94.35%",
+    "time": 463,
+    "timeDay": 459,
+    "timeWeek": 464,
+    "timeMonth": 463,
+    "timeYear": 463,
     "dailyMinutesDown": {
-      "2021-08-19": 0
+      "2021-08-19": 901
     }
   },
   {
