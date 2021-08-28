@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/blog.davidrychly.cz",
     "slug": "blog",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.25%",
+    "uptimeDay": "78.34%",
+    "uptimeWeek": "96.91%",
+    "uptimeMonth": "99.24%",
+    "uptimeYear": "99.25%",
     "time": 1562,
     "timeDay": 1510,
     "timeWeek": 1310,
     "timeMonth": 1562,
     "timeYear": 1562,
     "dailyMinutesDown": {
-      "2021-08-28": 4,
+      "2021-08-28": 312,
       "2021-08-12": 22
     }
   },
@@ -46,18 +46,18 @@
     "icon": "https://favicons.githubusercontent.com/vps.davidrychly.cz",
     "slug": "vps",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.29%",
+    "uptimeDay": "78.34%",
+    "uptimeWeek": "96.91%",
+    "uptimeMonth": "99.29%",
+    "uptimeYear": "99.29%",
     "time": 469,
     "timeDay": 401,
     "timeWeek": 453,
     "timeMonth": 469,
     "timeYear": 469,
     "dailyMinutesDown": {
-      "2021-08-28": 4
+      "2021-08-28": 312
     }
   },
   {
@@ -66,18 +66,18 @@
     "icon": "https://favicons.githubusercontent.com/htmlmage.davidrychly.cz",
     "slug": "htmlmage-api",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "98.91%",
+    "uptimeDay": "78.34%",
+    "uptimeWeek": "96.91%",
+    "uptimeMonth": "98.91%",
+    "uptimeYear": "98.91%",
     "time": 553,
     "timeDay": 495,
     "timeWeek": 534,
     "timeMonth": 553,
     "timeYear": 553,
     "dailyMinutesDown": {
-      "2021-08-28": 4
+      "2021-08-28": 312
     }
   },
   {
@@ -86,18 +86,18 @@
     "icon": "https://favicons.githubusercontent.com/imagemin.davidrychly.cz",
     "slug": "imagemin-api",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "98.91%",
+    "uptimeDay": "78.35%",
+    "uptimeWeek": "96.91%",
+    "uptimeMonth": "98.91%",
+    "uptimeYear": "98.91%",
     "time": 474,
     "timeDay": 440,
     "timeWeek": 461,
     "timeMonth": 474,
     "timeYear": 474,
     "dailyMinutesDown": {
-      "2021-08-28": 4
+      "2021-08-28": 312
     }
   },
   {
@@ -105,19 +105,19 @@
     "url": "https://geoip.davidrychly.cz/",
     "icon": "https://favicons.githubusercontent.com/geoip.davidrychly.cz",
     "slug": "geoip-api",
-    "status": "up",
-    "uptime": "69.78%",
+    "status": "down",
+    "uptime": "69.03%",
     "uptimeDay": "57.72%",
     "uptimeWeek": "35.21%",
-    "uptimeMonth": "69.78%",
-    "uptimeYear": "69.78%",
+    "uptimeMonth": "69.03%",
+    "uptimeYear": "69.03%",
     "time": 457,
     "timeDay": 425,
     "timeWeek": 462,
     "timeMonth": 457,
     "timeYear": 457,
     "dailyMinutesDown": {
-      "2021-08-28": 3,
+      "2021-08-28": 312,
       "2021-08-27": 1016,
       "2021-08-26": 1440,
       "2021-08-25": 1440,
@@ -134,18 +134,18 @@
     "icon": "https://favicons.githubusercontent.com/speedtest.davidrychly.cz",
     "slug": "speedtest",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "98.91%",
+    "uptimeDay": "78.35%",
+    "uptimeWeek": "96.91%",
+    "uptimeMonth": "98.91%",
+    "uptimeYear": "98.91%",
     "time": 502,
     "timeDay": 510,
     "timeWeek": 520,
     "timeMonth": 502,
     "timeYear": 502,
     "dailyMinutesDown": {
-      "2021-08-28": 3
+      "2021-08-28": 312
     }
   },
   {
@@ -154,19 +154,17 @@
     "icon": "https://favicons.githubusercontent.com/jitsi.davidrychly.cz",
     "slug": "jitsi",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1343,
     "timeDay": 6737,
     "timeWeek": 2485,
     "timeMonth": 1343,
     "timeYear": 1343,
-    "dailyMinutesDown": {
-      "2021-08-28": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Activities tracking app",
@@ -174,18 +172,18 @@
     "icon": "https://favicons.githubusercontent.com/activities-tracking-app.davidrychly.cz",
     "slug": "activities-tracking-app",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "98.91%",
+    "uptimeDay": "78.35%",
+    "uptimeWeek": "96.91%",
+    "uptimeMonth": "98.91%",
+    "uptimeYear": "98.91%",
     "time": 452,
     "timeDay": 465,
     "timeWeek": 458,
     "timeMonth": 452,
     "timeYear": 452,
     "dailyMinutesDown": {
-      "2021-08-28": 3
+      "2021-08-28": 312
     }
   },
   {
@@ -194,18 +192,18 @@
     "icon": "https://favicons.githubusercontent.com/version-check.davidrychly.cz",
     "slug": "version-check-api",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "98.91%",
+    "uptimeDay": "78.36%",
+    "uptimeWeek": "96.91%",
+    "uptimeMonth": "98.91%",
+    "uptimeYear": "98.91%",
     "time": 460,
     "timeDay": 516,
     "timeWeek": 454,
     "timeMonth": 460,
     "timeYear": 460,
     "dailyMinutesDown": {
-      "2021-08-28": 3
+      "2021-08-28": 312
     }
   }
 ]
