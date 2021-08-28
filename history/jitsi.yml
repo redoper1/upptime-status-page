@@ -1,7 +1,7 @@
 url: https://jitsi.davidrychly.cz/
-status: up
-code: 200
-responseTime: 598
-lastUpdated: 2021-08-27T23:09:58.666Z
+status: down
+code: 502
+responseTime: 18995
+lastUpdated: 2021-08-28T06:38:40.401Z
 startTime: Sun Aug 08 2021 15:31:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
