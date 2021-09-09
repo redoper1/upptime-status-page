@@ -12,8 +12,8 @@ sites:
     url: https://htmlmage.davidrychly.cz/
   - name: Imagemin API
     url: https://imagemin.davidrychly.cz/
-  - name: Geoip API
-    url: https://geoip.davidrychly.cz/
+  #- name: Geoip API
+  #  url: https://geoip.davidrychly.cz/
   - name: Speedtest
     url: https://speedtest.davidrychly.cz/
   - name: Jitsi
