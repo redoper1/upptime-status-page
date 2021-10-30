@@ -3,7 +3,7 @@ repo: upptime-status-page
 
 sites:
   - name: Personal website
-    url: https://davidrychly.cz/
+    url: https://www.davidrychly.cz/
   - name: Blog
     url: https://blog.davidrychly.cz/
   - name: VPS
