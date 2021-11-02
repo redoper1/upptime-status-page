@@ -1,7 +1,7 @@
 url: https://blog.davidrychly.cz/
-status: up
-code: 200
-responseTime: 1243
-lastUpdated: 2021-11-01T23:10:42.516Z
+status: down
+code: 500
+responseTime: 5426
+lastUpdated: 2021-11-02T07:15:03.619Z
 startTime: Wed Jul 28 2021 13:11:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
