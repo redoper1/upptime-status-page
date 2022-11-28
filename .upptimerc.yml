@@ -6,6 +6,8 @@ sites:
     url: https://www.davidrychly.cz/
   - name: Blog
     url: https://blog.davidrychly.cz/
+  - name: Docs
+    url: https://docs.davidrychly.cz/
   - name: VPS
     url: https://vps.davidrychly.cz/
   - name: Htmlmage API
