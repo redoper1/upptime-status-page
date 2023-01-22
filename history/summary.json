@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.davidrychly.cz.ico",
     "slug": "personal-website",
     "status": "up",
-    "uptime": "91.29%",
+    "uptime": "91.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.49%",
-    "time": 304,
-    "timeDay": 424,
-    "timeWeek": 319,
+    "uptimeYear": "89.77%",
+    "time": 305,
+    "timeDay": 224,
+    "timeWeek": 306,
     "timeMonth": 308,
-    "timeYear": 329,
+    "timeYear": 330,
     "dailyMinutesDown": {
       "2022-06-30": 66,
       "2022-06-21": 24,
@@ -54,8 +54,7 @@
       "2022-01-26": 1440,
       "2022-01-25": 1440,
       "2022-01-24": 1440,
-      "2022-01-23": 1440,
-      "2022-01-22": 1440
+      "2022-01-23": 1440
     }
   },
   {
@@ -64,16 +63,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.davidrychly.cz.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "92.90%",
+    "uptime": "92.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.58%",
-    "time": 818,
-    "timeDay": 2006,
-    "timeWeek": 1563,
-    "timeMonth": 1402,
-    "timeYear": 763,
+    "uptimeYear": "89.76%",
+    "time": 817,
+    "timeDay": 1144,
+    "timeWeek": 1497,
+    "timeMonth": 1391,
+    "timeYear": 768,
     "dailyMinutesDown": {
       "2022-09-24": 24,
       "2022-06-30": 66,
@@ -114,8 +113,7 @@
       "2022-01-26": 1440,
       "2022-01-25": 1440,
       "2022-01-24": 1440,
-      "2022-01-23": 1440,
-      "2022-01-22": 1440
+      "2022-01-23": 1440
     }
   },
   {
@@ -129,11 +127,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 281,
-    "timeDay": 117,
-    "timeWeek": 216,
-    "timeMonth": 269,
-    "timeYear": 281,
+    "time": 279,
+    "timeDay": 180,
+    "timeWeek": 225,
+    "timeMonth": 252,
+    "timeYear": 279,
     "dailyMinutesDown": {}
   },
   {
@@ -142,16 +140,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/vps.davidrychly.cz.ico",
     "slug": "vps",
     "status": "up",
-    "uptime": "92.90%",
+    "uptime": "92.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.58%",
+    "uptimeYear": "89.76%",
     "time": 502,
-    "timeDay": 458,
-    "timeWeek": 549,
+    "timeDay": 465,
+    "timeWeek": 515,
     "timeMonth": 572,
-    "timeYear": 519,
+    "timeYear": 521,
     "dailyMinutesDown": {
       "2022-09-24": 24,
       "2022-06-30": 66,
@@ -192,8 +190,7 @@
       "2022-01-26": 1440,
       "2022-01-25": 1440,
       "2022-01-24": 1440,
-      "2022-01-23": 1440,
-      "2022-01-22": 1440
+      "2022-01-23": 1440
     }
   },
   {
@@ -202,16 +199,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/htmlmage.davidrychly.cz.ico",
     "slug": "htmlmage-api",
     "status": "up",
-    "uptime": "92.76%",
+    "uptime": "92.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.59%",
+    "uptimeYear": "89.77%",
     "time": 576,
-    "timeDay": 556,
-    "timeWeek": 580,
+    "timeDay": 502,
+    "timeWeek": 564,
     "timeMonth": 590,
-    "timeYear": 599,
+    "timeYear": 602,
     "dailyMinutesDown": {
       "2022-08-26": 18,
       "2022-06-30": 65,
@@ -252,8 +249,7 @@
       "2022-01-26": 1440,
       "2022-01-25": 1440,
       "2022-01-24": 1440,
-      "2022-01-23": 1440,
-      "2022-01-22": 1440
+      "2022-01-23": 1440
     }
   },
   {
@@ -262,16 +258,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/imagemin.davidrychly.cz.ico",
     "slug": "imagemin-api",
     "status": "up",
-    "uptime": "92.77%",
+    "uptime": "92.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.60%",
-    "time": 519,
-    "timeDay": 397,
-    "timeWeek": 578,
-    "timeMonth": 578,
-    "timeYear": 541,
+    "uptimeYear": "89.77%",
+    "time": 518,
+    "timeDay": 376,
+    "timeWeek": 554,
+    "timeMonth": 573,
+    "timeYear": 543,
     "dailyMinutesDown": {
       "2022-06-30": 65,
       "2022-06-21": 21,
@@ -311,8 +307,7 @@
       "2022-01-26": 1440,
       "2022-01-25": 1440,
       "2022-01-24": 1440,
-      "2022-01-23": 1440,
-      "2022-01-22": 1440
+      "2022-01-23": 1440
     }
   },
   {
@@ -321,16 +316,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/speedtest.davidrychly.cz.ico",
     "slug": "speedtest",
     "status": "up",
-    "uptime": "92.77%",
+    "uptime": "92.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.60%",
+    "uptimeYear": "89.76%",
     "time": 514,
-    "timeDay": 712,
-    "timeWeek": 579,
-    "timeMonth": 574,
-    "timeYear": 511,
+    "timeDay": 460,
+    "timeWeek": 563,
+    "timeMonth": 572,
+    "timeYear": 513,
     "dailyMinutesDown": {
       "2022-06-30": 65,
       "2022-06-21": 53,
@@ -370,8 +365,7 @@
       "2022-01-26": 1440,
       "2022-01-25": 1440,
       "2022-01-24": 1440,
-      "2022-01-23": 1440,
-      "2022-01-22": 1440
+      "2022-01-23": 1440
     }
   },
   {
@@ -380,16 +374,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/jitsi.davidrychly.cz.ico",
     "slug": "jitsi",
     "status": "up",
-    "uptime": "92.81%",
+    "uptime": "92.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.58%",
-    "time": 615,
-    "timeDay": 624,
-    "timeWeek": 685,
-    "timeMonth": 694,
-    "timeYear": 614,
+    "uptimeYear": "89.76%",
+    "time": 614,
+    "timeDay": 460,
+    "timeWeek": 650,
+    "timeMonth": 687,
+    "timeYear": 616,
     "dailyMinutesDown": {
       "2022-06-30": 65,
       "2022-06-21": 52,
@@ -429,8 +423,7 @@
       "2022-01-26": 1440,
       "2022-01-25": 1440,
       "2022-01-24": 1440,
-      "2022-01-23": 1440,
-      "2022-01-22": 1440
+      "2022-01-23": 1440
     }
   },
   {
@@ -439,16 +432,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/activities-tracking-app.davidrychly.cz.ico",
     "slug": "activities-tracking-app",
     "status": "up",
-    "uptime": "91.67%",
+    "uptime": "91.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "88.00%",
+    "uptimeYear": "88.18%",
     "time": 495,
-    "timeDay": 628,
-    "timeWeek": 579,
-    "timeMonth": 595,
-    "timeYear": 517,
+    "timeDay": 474,
+    "timeWeek": 565,
+    "timeMonth": 593,
+    "timeYear": 519,
     "dailyMinutesDown": {
       "2022-06-30": 65,
       "2022-06-21": 51,
@@ -495,8 +488,7 @@
       "2022-01-26": 1440,
       "2022-01-25": 1440,
       "2022-01-24": 1440,
-      "2022-01-23": 1440,
-      "2022-01-22": 1440
+      "2022-01-23": 1440
     }
   },
   {
@@ -505,16 +497,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/version-check.davidrychly.cz.ico",
     "slug": "version-check-api",
     "status": "up",
-    "uptime": "92.76%",
+    "uptime": "92.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.58%",
+    "uptimeYear": "89.76%",
     "time": 502,
-    "timeDay": 536,
-    "timeWeek": 564,
-    "timeMonth": 580,
-    "timeYear": 522,
+    "timeDay": 465,
+    "timeWeek": 550,
+    "timeMonth": 577,
+    "timeYear": 524,
     "dailyMinutesDown": {
       "2022-08-26": 17,
       "2022-06-30": 65,
@@ -555,8 +547,7 @@
       "2022-01-26": 1440,
       "2022-01-25": 1440,
       "2022-01-24": 1440,
-      "2022-01-23": 1440,
-      "2022-01-22": 1440
+      "2022-01-23": 1440
     }
   },
   {
@@ -565,16 +556,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.davidrychly.cz.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "28.25%",
+    "uptime": "28.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "4.58%",
+    "uptimeYear": "6.27%",
     "time": 144,
-    "timeDay": 153,
-    "timeWeek": 149,
-    "timeMonth": 261,
-    "timeYear": 157,
+    "timeDay": 134,
+    "timeWeek": 139,
+    "timeMonth": 263,
+    "timeYear": 158,
     "dailyMinutesDown": {
       "2022-09-24": 48,
       "2022-09-15": 107,
@@ -624,8 +615,7 @@
       "2022-01-26": 12960,
       "2022-01-25": 12960,
       "2022-01-24": 12960,
-      "2022-01-23": 12960,
-      "2022-01-22": 12960
+      "2022-01-23": 12960
     }
   }
 ]
