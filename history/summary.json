@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.davidrychly.cz.ico",
     "slug": "personal-website",
     "status": "up",
-    "uptime": "91.51%",
+    "uptime": "91.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.06%",
+    "uptimeYear": "93.33%",
     "time": 306,
-    "timeDay": 226,
-    "timeWeek": 359,
-    "timeMonth": 311,
+    "timeDay": 251,
+    "timeWeek": 355,
+    "timeMonth": 310,
     "timeYear": 334,
     "dailyMinutesDown": {
       "2022-06-30": 66,
@@ -41,8 +41,7 @@
       "2022-02-08": 1440,
       "2022-02-07": 1440,
       "2022-02-06": 1440,
-      "2022-02-05": 1440,
-      "2022-02-04": 1440
+      "2022-02-05": 1440
     }
   },
   {
@@ -51,16 +50,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.davidrychly.cz.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "93.07%",
+    "uptime": "93.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.05%",
-    "time": 805,
-    "timeDay": 568,
-    "timeWeek": 804,
-    "timeMonth": 1123,
-    "timeYear": 791,
+    "uptimeYear": "93.33%",
+    "time": 804,
+    "timeDay": 795,
+    "timeWeek": 808,
+    "timeMonth": 1094,
+    "timeYear": 792,
     "dailyMinutesDown": {
       "2022-09-24": 24,
       "2022-06-30": 66,
@@ -88,8 +87,7 @@
       "2022-02-08": 1440,
       "2022-02-07": 1440,
       "2022-02-06": 1440,
-      "2022-02-05": 1440,
-      "2022-02-04": 1440
+      "2022-02-05": 1440
     }
   },
   {
@@ -104,8 +102,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 276,
-    "timeDay": 209,
-    "timeWeek": 250,
+    "timeDay": 251,
+    "timeWeek": 251,
     "timeMonth": 255,
     "timeYear": 276,
     "dailyMinutesDown": {}
@@ -116,16 +114,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/vps.davidrychly.cz.ico",
     "slug": "vps",
     "status": "up",
-    "uptime": "93.06%",
+    "uptime": "93.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.05%",
-    "time": 503,
-    "timeDay": 454,
-    "timeWeek": 539,
-    "timeMonth": 569,
-    "timeYear": 533,
+    "uptimeYear": "93.32%",
+    "time": 504,
+    "timeDay": 682,
+    "timeWeek": 550,
+    "timeMonth": 572,
+    "timeYear": 534,
     "dailyMinutesDown": {
       "2022-09-24": 24,
       "2022-06-30": 66,
@@ -153,8 +151,7 @@
       "2022-02-08": 1440,
       "2022-02-07": 1440,
       "2022-02-06": 1440,
-      "2022-02-05": 1440,
-      "2022-02-04": 1440
+      "2022-02-05": 1440
     }
   },
   {
@@ -163,16 +160,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/htmlmage.davidrychly.cz.ico",
     "slug": "htmlmage-api",
     "status": "up",
-    "uptime": "92.94%",
+    "uptime": "92.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.05%",
+    "uptimeYear": "93.33%",
     "time": 576,
-    "timeDay": 540,
-    "timeWeek": 556,
-    "timeMonth": 583,
-    "timeYear": 616,
+    "timeDay": 695,
+    "timeWeek": 565,
+    "timeMonth": 585,
+    "timeYear": 618,
     "dailyMinutesDown": {
       "2022-08-26": 18,
       "2022-06-30": 65,
@@ -200,8 +197,7 @@
       "2022-02-08": 1440,
       "2022-02-07": 1440,
       "2022-02-06": 1440,
-      "2022-02-05": 1440,
-      "2022-02-04": 1440
+      "2022-02-05": 1440
     }
   },
   {
@@ -210,16 +206,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/imagemin.davidrychly.cz.ico",
     "slug": "imagemin-api",
     "status": "up",
-    "uptime": "92.95%",
+    "uptime": "92.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.06%",
+    "uptimeYear": "93.33%",
     "time": 519,
-    "timeDay": 475,
-    "timeWeek": 540,
-    "timeMonth": 562,
-    "timeYear": 556,
+    "timeDay": 629,
+    "timeWeek": 542,
+    "timeMonth": 561,
+    "timeYear": 558,
     "dailyMinutesDown": {
       "2022-06-30": 65,
       "2022-06-21": 21,
@@ -246,8 +242,7 @@
       "2022-02-08": 1440,
       "2022-02-07": 1440,
       "2022-02-06": 1440,
-      "2022-02-05": 1440,
-      "2022-02-04": 1440
+      "2022-02-05": 1440
     }
   },
   {
@@ -256,16 +251,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/speedtest.davidrychly.cz.ico",
     "slug": "speedtest",
     "status": "up",
-    "uptime": "92.95%",
+    "uptime": "92.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.05%",
+    "uptimeYear": "93.32%",
     "time": 515,
-    "timeDay": 548,
-    "timeWeek": 585,
-    "timeMonth": 578,
-    "timeYear": 527,
+    "timeDay": 512,
+    "timeWeek": 582,
+    "timeMonth": 577,
+    "timeYear": 529,
     "dailyMinutesDown": {
       "2022-06-30": 65,
       "2022-06-21": 53,
@@ -292,8 +287,7 @@
       "2022-02-08": 1440,
       "2022-02-07": 1440,
       "2022-02-06": 1440,
-      "2022-02-05": 1440,
-      "2022-02-04": 1440
+      "2022-02-05": 1440
     }
   },
   {
@@ -302,16 +296,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/jitsi.davidrychly.cz.ico",
     "slug": "jitsi",
     "status": "up",
-    "uptime": "92.98%",
+    "uptime": "92.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.05%",
-    "time": 616,
-    "timeDay": 544,
-    "timeWeek": 612,
-    "timeMonth": 681,
-    "timeYear": 634,
+    "uptimeYear": "93.32%",
+    "time": 615,
+    "timeDay": 609,
+    "timeWeek": 610,
+    "timeMonth": 677,
+    "timeYear": 636,
     "dailyMinutesDown": {
       "2022-06-30": 65,
       "2022-06-21": 52,
@@ -338,8 +332,7 @@
       "2022-02-08": 1440,
       "2022-02-07": 1440,
       "2022-02-06": 1440,
-      "2022-02-05": 1440,
-      "2022-02-04": 1440
+      "2022-02-05": 1440
     }
   },
   {
@@ -348,16 +341,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/activities-tracking-app.davidrychly.cz.ico",
     "slug": "activities-tracking-app",
     "status": "up",
-    "uptime": "91.87%",
+    "uptime": "91.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.46%",
-    "time": 499,
-    "timeDay": 502,
-    "timeWeek": 588,
-    "timeMonth": 604,
-    "timeYear": 534,
+    "uptimeYear": "91.74%",
+    "time": 500,
+    "timeDay": 658,
+    "timeWeek": 590,
+    "timeMonth": 605,
+    "timeYear": 536,
     "dailyMinutesDown": {
       "2022-06-30": 65,
       "2022-06-21": 51,
@@ -391,8 +384,7 @@
       "2022-02-08": 1440,
       "2022-02-07": 1440,
       "2022-02-06": 1440,
-      "2022-02-05": 1440,
-      "2022-02-04": 1440
+      "2022-02-05": 1440
     }
   },
   {
@@ -401,16 +393,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/version-check.davidrychly.cz.ico",
     "slug": "version-check-api",
     "status": "up",
-    "uptime": "92.93%",
+    "uptime": "92.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.05%",
-    "time": 505,
-    "timeDay": 778,
-    "timeWeek": 601,
-    "timeMonth": 577,
-    "timeYear": 540,
+    "uptimeYear": "93.32%",
+    "time": 506,
+    "timeDay": 672,
+    "timeWeek": 607,
+    "timeMonth": 582,
+    "timeYear": 541,
     "dailyMinutesDown": {
       "2022-08-26": 17,
       "2022-06-30": 65,
@@ -438,8 +430,7 @@
       "2022-02-08": 1440,
       "2022-02-07": 1440,
       "2022-02-06": 1440,
-      "2022-02-05": 1440,
-      "2022-02-04": 1440
+      "2022-02-05": 1440
     }
   },
   {
@@ -448,15 +439,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.davidrychly.cz.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "30.03%",
+    "uptime": "30.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "35.86%",
-    "time": 145,
-    "timeDay": 151,
+    "uptimeYear": "38.32%",
+    "time": 146,
+    "timeDay": 247,
     "timeWeek": 143,
-    "timeMonth": 148,
+    "timeMonth": 152,
     "timeYear": 160,
     "dailyMinutesDown": {
       "2022-09-24": 48,
@@ -494,8 +485,7 @@
       "2022-02-08": 12960,
       "2022-02-07": 12960,
       "2022-02-06": 12960,
-      "2022-02-05": 12960,
-      "2022-02-04": 12960
+      "2022-02-05": 12960
     }
   }
 ]
