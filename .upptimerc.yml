@@ -26,6 +26,8 @@ sites:
     url: https://version-check.davidrychly.cz/
   - name: Status
     url: https://status.davidrychly.cz/
+  - name: Analytics
+    url: https://analytics.davidrychly.cz/
     
 assignees:
   - redoper1
