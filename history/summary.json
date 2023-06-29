@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.davidrychly.cz.ico",
     "slug": "personal-website",
     "status": "up",
-    "uptime": "93.36%",
+    "uptime": "93.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
@@ -14,7 +14,7 @@
     "timeDay": 364,
     "timeWeek": 258,
     "timeMonth": 322,
-    "timeYear": 329,
+    "timeYear": 330,
     "dailyMinutesDown": {
       "2023-06-20": 22,
       "2022-06-30": 66
@@ -25,19 +25,19 @@
     "url": "https://blog.davidrychly.cz/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.davidrychly.cz.ico",
     "slug": "blog",
-    "status": "down",
-    "uptime": "94.48%",
-    "uptimeDay": "83.14%",
-    "uptimeWeek": "97.59%",
-    "uptimeMonth": "99.45%",
-    "uptimeYear": "99.91%",
+    "status": "up",
+    "uptime": "94.42%",
+    "uptimeDay": "39.22%",
+    "uptimeWeek": "91.32%",
+    "uptimeMonth": "98.00%",
+    "uptimeYear": "99.79%",
     "time": 904,
-    "timeDay": 604,
-    "timeWeek": 652,
-    "timeMonth": 1240,
-    "timeYear": 949,
+    "timeDay": 651,
+    "timeWeek": 662,
+    "timeMonth": 1225,
+    "timeYear": 951,
     "dailyMinutesDown": {
-      "2023-06-29": 37,
+      "2023-06-29": 670,
       "2023-06-28": 206,
       "2023-05-25": 35,
       "2023-05-14": 59,
@@ -79,7 +79,7 @@
     "timeDay": 622,
     "timeWeek": 535,
     "timeMonth": 551,
-    "timeYear": 566,
+    "timeYear": 567,
     "dailyMinutesDown": {
       "2022-09-24": 24,
       "2022-06-30": 66
@@ -91,7 +91,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/htmlmage.davidrychly.cz.ico",
     "slug": "htmlmage-api",
     "status": "up",
-    "uptime": "94.43%",
+    "uptime": "94.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -100,7 +100,7 @@
     "timeDay": 686,
     "timeWeek": 609,
     "timeMonth": 637,
-    "timeYear": 660,
+    "timeYear": 662,
     "dailyMinutesDown": {
       "2022-08-26": 18,
       "2022-06-30": 65
@@ -121,7 +121,7 @@
     "timeDay": 518,
     "timeWeek": 521,
     "timeMonth": 621,
-    "timeYear": 580,
+    "timeYear": 581,
     "dailyMinutesDown": {
       "2022-06-30": 65
     }
@@ -141,7 +141,7 @@
     "timeDay": 620,
     "timeWeek": 533,
     "timeMonth": 559,
-    "timeYear": 563,
+    "timeYear": 564,
     "dailyMinutesDown": {
       "2022-06-30": 65
     }
@@ -161,7 +161,7 @@
     "timeDay": 744,
     "timeWeek": 584,
     "timeMonth": 591,
-    "timeYear": 661,
+    "timeYear": 662,
     "dailyMinutesDown": {
       "2022-06-30": 65
     }
@@ -172,7 +172,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/activities-tracking-app.davidrychly.cz.ico",
     "slug": "activities-tracking-app",
     "status": "up",
-    "uptime": "93.59%",
+    "uptime": "93.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -181,7 +181,7 @@
     "timeDay": 523,
     "timeWeek": 529,
     "timeMonth": 570,
-    "timeYear": 577,
+    "timeYear": 579,
     "dailyMinutesDown": {
       "2022-06-30": 65
     }
@@ -201,7 +201,7 @@
     "timeDay": 514,
     "timeWeek": 545,
     "timeMonth": 577,
-    "timeYear": 579,
+    "timeYear": 580,
     "dailyMinutesDown": {
       "2022-08-26": 17,
       "2022-06-30": 65
@@ -213,18 +213,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.davidrychly.cz.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "45.05%",
-    "uptimeDay": "83.12%",
-    "uptimeWeek": "97.59%",
-    "uptimeMonth": "99.40%",
-    "uptimeYear": "99.40%",
+    "uptime": "45.02%",
+    "uptimeDay": "39.22%",
+    "uptimeWeek": "91.32%",
+    "uptimeMonth": "97.95%",
+    "uptimeYear": "99.28%",
     "time": 167,
     "timeDay": 246,
     "timeWeek": 158,
     "timeMonth": 188,
     "timeYear": 176,
     "dailyMinutesDown": {
-      "2023-06-29": 38,
+      "2023-06-29": 670,
       "2023-06-28": 206,
       "2023-06-20": 22,
       "2023-05-25": 35,
@@ -245,11 +245,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/analytics.davidrychly.cz.ico",
     "slug": "analytics",
     "status": "up",
-    "uptime": "97.78%",
+    "uptime": "97.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.78%",
+    "uptimeYear": "97.80%",
     "time": 1176,
     "timeDay": 1257,
     "timeWeek": 1359,
