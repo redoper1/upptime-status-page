@@ -28,6 +28,8 @@ sites:
     url: https://status.davidrychly.cz/
   - name: Analytics
     url: https://analytics.davidrychly.cz/
+  - name: Notify (ntfy)
+    url: https://ntfy.davidrychly.cz/
     
 assignees:
   - redoper1
