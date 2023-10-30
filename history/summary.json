@@ -55,19 +55,19 @@
     "url": "https://docs.davidrychly.cz/",
     "icon": "https://icons.duckduckgo.com/ip3/docs.davidrychly.cz.ico",
     "slug": "docs",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.33%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 249,
-    "timeDay": 193,
-    "timeWeek": 242,
+    "timeDay": 202,
+    "timeWeek": 239,
     "timeMonth": 221,
     "timeYear": 249,
     "dailyMinutesDown": {
-      "2023-10-30": 0
+      "2023-10-30": 24
     }
   },
   {
@@ -231,9 +231,9 @@
     "slug": "status",
     "status": "up",
     "uptime": "54.72%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.83%",
+    "uptimeDay": "98.33%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "98.77%",
     "uptimeYear": "98.98%",
     "time": 169,
     "timeDay": 264,
@@ -241,7 +241,7 @@
     "timeMonth": 137,
     "timeYear": 169,
     "dailyMinutesDown": {
-      "2023-10-30": 0,
+      "2023-10-30": 24,
       "2023-10-11": 515,
       "2023-09-22": 35,
       "2023-09-10": 38,
