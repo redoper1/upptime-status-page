@@ -1,7 +1,7 @@
 url: https://imagemin.davidrychly.cz/
-status: up
-code: 200
-responseTime: 514
-lastUpdated: 2024-01-10T23:02:53.199Z
+status: down
+code: 502
+responseTime: 3636
+lastUpdated: 2024-01-11T20:32:55.361Z
 startTime: 2021-08-08T15:31:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
