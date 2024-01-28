@@ -20,8 +20,8 @@ sites:
     url: https://speedtest.davidrychly.cz/
   - name: Jitsi
     url: https://jitsi.davidrychly.cz/
-  - name: Activities tracking app
-    url: https://activities-tracking-app.davidrychly.cz/login
+  #- name: Activities tracking app
+  #  url: https://activities-tracking-app.davidrychly.cz/login
   - name: Version check API
     url: https://version-check.davidrychly.cz/
   - name: Status
