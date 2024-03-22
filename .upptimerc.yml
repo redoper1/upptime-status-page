@@ -30,6 +30,8 @@ sites:
     url: https://analytics.davidrychly.cz/
   - name: Notify (ntfy)
     url: https://ntfy.davidrychly.cz/
+  - name: Send
+    url: https://send.davidrychly.cz/
     
 assignees:
   - redoper1
