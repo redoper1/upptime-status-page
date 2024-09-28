@@ -245,10 +245,10 @@
     "slug": "status",
     "status": "up",
     "uptime": "99.01%",
-    "uptimeDay": "98.66%",
-    "uptimeWeek": "99.81%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
     "uptimeMonth": "84.55%",
-    "uptimeYear": "96.95%",
+    "uptimeYear": "96.96%",
     "time": 160,
     "timeDay": 132,
     "timeWeek": 144,
@@ -281,7 +281,7 @@
       "2023-11-14": 740,
       "2023-11-13": 529,
       "2023-10-30": 24,
-      "2023-10-11": 291
+      "2023-10-11": 239
     }
   },
   {
@@ -289,10 +289,10 @@
     "url": "https://analytics.davidrychly.cz/",
     "icon": "https://icons.duckduckgo.com/ip3/analytics.davidrychly.cz.ico",
     "slug": "analytics",
-    "status": "up",
+    "status": "down",
     "uptime": "99.32%",
-    "uptimeDay": "98.66%",
-    "uptimeWeek": "99.81%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "99.80%",
     "uptimeMonth": "98.43%",
     "uptimeYear": "99.51%",
     "time": 1219,
