@@ -1,7 +1,7 @@
 url: https://analytics.davidrychly.cz/
-status: up
-code: 200
-responseTime: 1637
-lastUpdated: 2025-01-11T23:02:56.646Z
+status: down
+code: 500
+responseTime: 1360
+lastUpdated: 2025-01-12T08:03:54.273Z
 startTime: 2023-04-27T18:16:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
