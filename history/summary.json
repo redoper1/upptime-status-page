@@ -4,18 +4,20 @@
     "url": "https://www.davidrychly.cz/",
     "icon": "https://icons.duckduckgo.com/ip3/www.davidrychly.cz.ico",
     "slug": "personal-website",
-    "status": "up",
+    "status": "down",
     "uptime": "96.60%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 239,
+    "time": 238,
     "timeDay": 225,
     "timeWeek": 276,
     "timeMonth": 241,
     "timeYear": 240,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-03": 0
+    }
   },
   {
     "name": "Blog",
@@ -235,7 +237,7 @@
     "slug": "status",
     "status": "up",
     "uptime": "97.08%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "89.43%",
     "uptimeYear": "89.49%",
@@ -245,6 +247,7 @@
     "timeMonth": 183,
     "timeYear": 170,
     "dailyMinutesDown": {
+      "2025-04-03": 0,
       "2025-03-17": 4629,
       "2025-02-27": 99,
       "2025-02-26": 32,
@@ -291,7 +294,7 @@
       "2024-06-21": 342,
       "2024-05-07": 31,
       "2024-04-16": 211,
-      "2024-04-15": 297
+      "2024-04-15": 264
     }
   },
   {
@@ -300,7 +303,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/analytics.davidrychly.cz.ico",
     "slug": "analytics",
     "status": "up",
-    "uptime": "95.45%",
+    "uptime": "95.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.87%",
