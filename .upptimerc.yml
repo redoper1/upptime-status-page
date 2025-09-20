@@ -46,7 +46,7 @@ status-website:
     - title: Status
       href: /
     - title: Website
-      href: https://davidrychly.cz
+      href: https://www.davidrychly.cz/?utm_source=status.davidrychly.cz&utm_medium=statuspage&utm_campaign=homepage
     - title: GitHub repo
       href: https://github.com/$OWNER/$REPO
   theme: dark
