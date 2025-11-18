@@ -1,7 +1,7 @@
 url: https://status.davidrychly.cz/
-status: up
-code: 200
-responseTime: 210
-lastUpdated: 2025-11-18T14:37:24.621Z
+status: down
+code: 500
+responseTime: 482
+lastUpdated: 2025-11-18T15:05:12.610Z
 startTime: 2021-08-28T14:52:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
