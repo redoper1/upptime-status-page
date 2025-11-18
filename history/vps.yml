@@ -1,7 +1,7 @@
 url: https://vps.davidrychly.cz/
-status: up
-code: 200
-responseTime: 598
-lastUpdated: 2025-11-17T23:03:10.079Z
+status: down
+code: 500
+responseTime: 47
+lastUpdated: 2025-11-18T12:06:24.688Z
 startTime: 2021-07-29T04:42:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
