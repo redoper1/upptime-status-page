@@ -44,17 +44,17 @@
     "url": "https://blog.davidrychly.cz/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.davidrychly.cz.ico",
     "slug": "blog",
-    "status": "down",
+    "status": "up",
     "uptime": "96.09%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.78%",
-    "time": 1092,
-    "timeDay": 19946,
-    "timeWeek": 5600,
-    "timeMonth": 2058,
-    "timeYear": 1098,
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.77%",
+    "time": 1086,
+    "timeDay": 13485,
+    "timeWeek": 5040,
+    "timeMonth": 2009,
+    "timeYear": 1097,
     "dailyMinutesDown": {
       "2025-09-02": 30,
       "2025-11-07": 61,
@@ -66,7 +66,7 @@
       "2026-04-11": 26,
       "2026-04-30": 115,
       "2026-05-04": 141,
-      "2026-07-30": 2
+      "2026-07-30": 14
     }
   },
   {
@@ -95,17 +95,17 @@
     "url": "https://vps.davidrychly.cz/",
     "icon": "https://icons.duckduckgo.com/ip3/vps.davidrychly.cz.ico",
     "slug": "vps",
-    "status": "down",
+    "status": "up",
     "uptime": "97.77%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.80%",
-    "time": 751,
-    "timeDay": 10082,
-    "timeWeek": 3046,
-    "timeMonth": 1286,
-    "timeYear": 787,
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.79%",
+    "time": 756,
+    "timeDay": 7844,
+    "timeWeek": 3082,
+    "timeMonth": 1353,
+    "timeYear": 794,
     "dailyMinutesDown": {
       "2025-09-02": 29,
       "2025-11-07": 61,
@@ -115,7 +115,7 @@
       "2026-04-11": 26,
       "2026-04-16": 59,
       "2026-05-04": 141,
-      "2026-07-30": 0
+      "2026-07-30": 12
     }
   },
   {
@@ -241,9 +241,9 @@
     "slug": "status",
     "status": "up",
     "uptime": "98.40%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "92.11%",
     "time": 193,
     "timeDay": 133,
@@ -319,7 +319,7 @@
       "2026-05-07": 1440,
       "2026-05-06": 1440,
       "2026-05-05": 1440,
-      "2026-07-30": 3
+      "2026-07-30": 14
     }
   },
   {
