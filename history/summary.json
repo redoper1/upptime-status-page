@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.davidrychly.cz.ico",
     "slug": "personal-website",
     "status": "up",
-    "uptime": "97.24%",
+    "uptime": "97.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -44,17 +44,17 @@
     "url": "https://blog.davidrychly.cz/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.davidrychly.cz.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "96.09%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
-    "time": 1014,
-    "timeDay": 814,
-    "timeWeek": 817,
-    "timeMonth": 781,
-    "timeYear": 1000,
+    "time": 1092,
+    "timeDay": 19946,
+    "timeWeek": 5600,
+    "timeMonth": 2058,
+    "timeYear": 1098,
     "dailyMinutesDown": {
       "2025-09-02": 30,
       "2025-11-07": 61,
@@ -65,7 +65,8 @@
       "2026-04-05": 63,
       "2026-04-11": 26,
       "2026-04-30": 115,
-      "2026-05-04": 141
+      "2026-05-04": 141,
+      "2026-07-30": 2
     }
   },
   {
@@ -94,17 +95,17 @@
     "url": "https://vps.davidrychly.cz/",
     "icon": "https://icons.duckduckgo.com/ip3/vps.davidrychly.cz.ico",
     "slug": "vps",
-    "status": "up",
+    "status": "down",
     "uptime": "97.77%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
-    "time": 713,
-    "timeDay": 666,
-    "timeWeek": 695,
-    "timeMonth": 658,
-    "timeYear": 739,
+    "time": 751,
+    "timeDay": 10082,
+    "timeWeek": 3046,
+    "timeMonth": 1286,
+    "timeYear": 787,
     "dailyMinutesDown": {
       "2025-09-02": 29,
       "2025-11-07": 61,
@@ -113,7 +114,8 @@
       "2026-04-05": 63,
       "2026-04-11": 26,
       "2026-04-16": 59,
-      "2026-05-04": 141
+      "2026-05-04": 141,
+      "2026-07-30": 0
     }
   },
   {
@@ -238,10 +240,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.davidrychly.cz.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "98.39%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptime": "98.40%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "92.11%",
     "time": 193,
     "timeDay": 133,
@@ -316,7 +318,8 @@
       "2026-05-08": 1440,
       "2026-05-07": 1440,
       "2026-05-06": 1440,
-      "2026-05-05": 1440
+      "2026-05-05": 1440,
+      "2026-07-30": 3
     }
   },
   {
