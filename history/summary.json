@@ -82,17 +82,17 @@
     "url": "https://vps.davidrychly.cz/",
     "icon": "https://icons.duckduckgo.com/ip3/vps.davidrychly.cz.ico",
     "slug": "vps",
-    "status": "down",
+    "status": "up",
     "uptime": "97.82%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.80%",
-    "time": 810,
-    "timeDay": 10276,
-    "timeWeek": 3125,
-    "timeMonth": 1410,
-    "timeYear": 861,
+    "time": 809,
+    "timeDay": 6958,
+    "timeWeek": 2813,
+    "timeMonth": 1377,
+    "timeYear": 859,
     "dailyMinutesDown": {
       "2025-11-07": 61,
       "2025-11-18": 178,
@@ -101,7 +101,7 @@
       "2026-04-11": 26,
       "2026-04-16": 59,
       "2026-05-04": 141,
-      "2026-09-09": 1
+      "2026-09-09": 8
     }
   },
   {
@@ -221,9 +221,9 @@
     "slug": "status",
     "status": "up",
     "uptime": "98.43%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "92.23%",
     "time": 195,
     "timeDay": 61,
@@ -287,7 +287,7 @@
       "2026-05-07": 1440,
       "2026-05-06": 1440,
       "2026-05-05": 1440,
-      "2026-09-09": 1
+      "2026-09-09": 8
     }
   },
   {
@@ -295,17 +295,17 @@
     "url": "https://analytics.davidrychly.cz/",
     "icon": "https://icons.duckduckgo.com/ip3/analytics.davidrychly.cz.ico",
     "slug": "analytics",
-    "status": "down",
+    "status": "up",
     "uptime": "96.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "95.31%",
     "time": 1858,
-    "timeDay": 1103,
-    "timeWeek": 1912,
-    "timeMonth": 2448,
-    "timeYear": 1928,
+    "timeDay": 1072,
+    "timeWeek": 1812,
+    "timeMonth": 2404,
+    "timeYear": 1926,
     "dailyMinutesDown": {
       "2025-09-20": 28,
       "2025-10-31": 35,
@@ -340,7 +340,7 @@
       "2026-05-06": 1440,
       "2026-05-05": 1440,
       "2026-05-04": 185,
-      "2026-09-09": 1
+      "2026-09-09": 7
     }
   },
   {
