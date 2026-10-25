@@ -212,8 +212,8 @@
     "slug": "status",
     "status": "up",
     "uptime": "98.44%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "92.13%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "92.10%",
     "uptimeMonth": "98.12%",
     "uptimeYear": "93.31%",
     "time": 197,
@@ -271,7 +271,7 @@
       "2026-10-17": 28,
       "2026-10-22": 624,
       "2026-10-21": 169,
-      "2026-10-25": 1
+      "2026-10-25": 3
     }
   },
   {
@@ -279,17 +279,17 @@
     "url": "https://analytics.davidrychly.cz/",
     "icon": "https://icons.duckduckgo.com/ip3/analytics.davidrychly.cz.ico",
     "slug": "analytics",
-    "status": "down",
+    "status": "up",
     "uptime": "96.10%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "92.13%",
-    "uptimeMonth": "98.19%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "92.10%",
+    "uptimeMonth": "98.18%",
     "uptimeYear": "95.17%",
-    "time": 1911,
-    "timeDay": 1966,
-    "timeWeek": 2231,
-    "timeMonth": 1985,
-    "timeYear": 1961,
+    "time": 1910,
+    "timeDay": 2005,
+    "timeWeek": 2226,
+    "timeMonth": 1990,
+    "timeYear": 1962,
     "dailyMinutesDown": {
       "2025-10-31": 35,
       "2025-11-05": 27,
@@ -325,7 +325,7 @@
       "2026-05-04": 185,
       "2026-10-22": 624,
       "2026-10-21": 169,
-      "2026-10-25": 1
+      "2026-10-25": 3
     }
   },
   {
