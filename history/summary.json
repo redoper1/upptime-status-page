@@ -211,9 +211,9 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.davidrychly.cz.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "98.44%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "92.13%",
+    "uptime": "98.45%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "92.12%",
     "uptimeMonth": "98.12%",
     "uptimeYear": "93.31%",
     "time": 197,
@@ -270,7 +270,8 @@
       "2026-05-05": 1440,
       "2026-10-17": 28,
       "2026-10-22": 624,
-      "2026-10-21": 169
+      "2026-10-21": 169,
+      "2026-10-25": 2
     }
   },
   {
@@ -278,17 +279,17 @@
     "url": "https://analytics.davidrychly.cz/",
     "icon": "https://icons.duckduckgo.com/ip3/analytics.davidrychly.cz.ico",
     "slug": "analytics",
-    "status": "up",
+    "status": "down",
     "uptime": "96.10%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "92.13%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "92.11%",
     "uptimeMonth": "98.19%",
     "uptimeYear": "95.17%",
-    "time": 1909,
-    "timeDay": 2365,
-    "timeWeek": 2363,
-    "timeMonth": 1999,
-    "timeYear": 1962,
+    "time": 1907,
+    "timeDay": 1394,
+    "timeWeek": 2169,
+    "timeMonth": 1952,
+    "timeYear": 1958,
     "dailyMinutesDown": {
       "2025-10-31": 35,
       "2025-11-05": 27,
@@ -323,7 +324,8 @@
       "2026-05-05": 1440,
       "2026-05-04": 185,
       "2026-10-22": 624,
-      "2026-10-21": 169
+      "2026-10-21": 169,
+      "2026-10-25": 2
     }
   },
   {
@@ -331,21 +333,22 @@
     "url": "https://ntfy.davidrychly.cz/",
     "icon": "https://icons.duckduckgo.com/ip3/ntfy.davidrychly.cz.ico",
     "slug": "notify-ntfy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 615,
-    "timeDay": 807,
-    "timeWeek": 833,
-    "timeMonth": 670,
-    "timeYear": 646,
+    "time": 655,
+    "timeDay": 10570,
+    "timeWeek": 3270,
+    "timeMonth": 1304,
+    "timeYear": 700,
     "dailyMinutesDown": {
       "2025-11-12": 26,
       "2025-11-18": 151,
-      "2026-02-05": 25
+      "2026-02-05": 25,
+      "2026-10-25": 1
     }
   },
   {
