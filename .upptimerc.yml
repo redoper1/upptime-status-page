@@ -1,6 +1,10 @@
 owner: redoper1
 repo: upptime-status-page
 
+secrets:
+  - NOTIFICATION_CUSTOM_WEBHOOK
+  - NOTIFICATION_CUSTOM_WEBHOOK_URL
+
 sites:
   - name: Personal website
     url: https://www.davidrychly.cz/
@@ -32,7 +36,7 @@ sites:
     url: https://ntfy.davidrychly.cz/
   - name: Send
     url: https://send.davidrychly.cz/
-    
+
 assignees:
   - redoper1
 
@@ -50,7 +54,7 @@ status-website:
     - title: GitHub repo
       href: https://github.com/$OWNER/$REPO
   theme: dark
-  
+
 
 workflowSchedule:
   graphs: "0 0 * * *"
